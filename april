@@ -4,18 +4,17 @@ Case study of an enterprise transformation without the risk of cultural change!
 
 [Dirk Fabricius](https://medium.com/u/a65ef8c2b5a6) on 2023-04-01
 
-Some companies have steep hierarchies where managers are labeled by letters and [numbers](https://www.youtube.com/watch?v=hphXPJJMl7g). When discussing these positions, it can sound like a game of chess: “F2 to E1.” This case study features one such company that, until recently, was a moderately happy place where development teams even deployed code from time to time. However, according to an article in a management magazine, they were not performing among the top 5% of companies worldwide, such as Google, Apple, Facebook, and Amazon. As a result, management decided to implement the [Scaled Agile Dev Ops Maturity Framework](https://scaledagiledevops.com/), which, surprisingly, nobody at Google, Apple, Facebook, or Amazon had ever heard of. This article shares their success story, implementation roadmap, and important tips for anyone considering implementing this or any other scaling framework.
+Some companies have steep hierarchies where managers are labeled by letters and [numbers](https://www.youtube.com/watch?v=hphXPJJMl7g). When discussing these positions, it can sound like a game of chess: “F2 to E1.” This case study features one such company that, until recently, was a moderately happy place where development teams even deployed code from time to time. However, according to an article in a management magazine, they were not performing among the top 5% of companies worldwide, such as Google, Apple, Facebook, and Amazon. As a result, management decided to implement the [Scaled Agile Dev Ops Maturity Framework](https://scaledagiledevops.com), which, surprisingly, nobody at Google, Apple, Facebook, or Amazon had ever heard of. This article shares their success story, implementation roadmap, and important tips for anyone considering implementing this or any other scaling framework.
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/f8c0f7619a873ad5a9d97e31188e7eff1445d43024225819.jpg)![](Aspose.Words.2396e609-f9e5-450c-81b4-b5779164ce63.001.jpeg)
+![Roadmap with Snake and Compass](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/f8c0f7619a873ad5a9d97e31188e7eff1445d43024225819.jpg)
 
-*   Pix by [Vizetelly](https://pixabay.com/de/illustrations/korallenschlange-schlange-7665521/) and [Ylanite Koppens](https://pixabay.com/de/users/ylanite-2218222/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2946959) at pixabay  
-    ![](Aspose.Words.2396e609-f9e5-450c-81b4-b5779164ce63.002.png)
+*   Pix by [Vizetelly](https://pixabay.com/de/illustrations/korallenschlange-schlange-7665521/) and [Ylanite Koppens](https://pixabay.com/de/users/ylanite-2218222/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2946959) at pixabay
 
 **Be** Scaled Agile DevOps Maturity Framework
 
 The SAD thought leaders claim that it’s not about doing SAD, but about being SAD. This has no meaning at all, but it is nice for inspiring quotes right at the start of a case study. Place the tokens of all players here.
 
-**Yearly Strategic Very Important Budget Allocation Initiation Committee Session** (YSVIBAICS\*\*)\*\*
+**Yearly Strategic Very Important Budget Allocation Initiation Committee Session** (YSVIBAICS)
 
 Implementing a framework like SAD needs a waterfall initiative — a fancy word for project. **Successful** initiatives consist of a title that management will copy and paste into every email, every presentation, and every document during the initiative as some kind of “important” tag. Second, there is a budget that management needs to hire external consultants to create fancy slides and go out for lunch.
 
@@ -41,15 +40,15 @@ Management assembled a team with a catchy name, consisting of the three consulta
 
 **Market Evaluation Sync Session** (MESS)
 
-Choosing a framework was easy since the consultants only knew about the \[Scaled Agile DevOps Maturity Framework\](https://scaledagiledevops.com/). For team building purposes, management had the TTECCCT meet and asked them to create a collage of logos from at least five SAD competitors by searching for them on Google.
+Choosing a framework was easy since the consultants only knew about the [Scaled Agile DevOps Maturity Framework](https://scaledagiledevops.com/). For team building purposes, management had the TTECCCT meet and asked them to create a collage of logos from at least five SAD competitors by searching for them on Google.
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/79e648a460ddb99841509803df455e25aac0063bf0c7e7b9.jpg)![](Aspose.Words.2396e609-f9e5-450c-81b4-b5779164ce63.003.jpeg)
+![Logos of all major players](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/79e648a460ddb99841509803df455e25aac0063bf0c7e7b9.jpg)
 
-*   All Logo rights reserved by their owners![](Aspose.Words.2396e609-f9e5-450c-81b4-b5779164ce63.004.png)
+*   All logo rights are reserved by their owners.
 
 > Hint: Claim to have evaluated and be proficient in these frameworks and present your new approach as inspired by all of them.
 
-**Whimsical Tailoring of the Framework (WTF)**
+**Whimsical Tailoring of the Framework** (WTF)
 
 Consultants often have short attention spans and only read a few pages of the Scaled Agile DevOps Maturity Framework online. Therefore, they claimed it would be beneficial to “tailor” the framework to the company’s needs by removing everything they didn’t read or understand. As a result, management dropped every [principle](https://scaledagiledevops.com/principles/), [practice](https://scaledagiledevops.com/practices/), and most of the recommended [metrics](https://scaledagiledevops.com/metrics/), and focused only on [roles](https://scaledagiledevops.com/roles/) and [ceremonies](https://scaledagiledevops.com/release-convoy/ceremonies/).
 
@@ -61,21 +60,19 @@ The SAD roles were quickly distributed among the **TTECCCT.** Members also recei
 
 ![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/8f6bc8c1abfa6db3c62fd3efc2ba56bf428dac358a681e6f.jpg)
 
-![](Aspose.Words.2396e609-f9e5-450c-81b4-b5779164ce63.006.png)
-
 > Hint: Redefining previously existing roles can be accompanied by renaming them, but it is not necessary. You can add a prefix like “Area” or “Component” to restrict those colleagues to a specific division. Alternatively, you can add a suffix like “/Team” or “/Coach” to ensure that a role remains within their team and doesn’t report to management. In this company, they simply redefined the old roles and claimed it had always been that way.
-
-If **TTECCCT** staff members want to claim the title of a group as their role, it is acceptable. Create a nice email distribution list for them. There is nothing wrong with the Enterprise Architecture Review Board (EARB) being a single resource governing the software architecture. The same goes for **TTECCCT** members who claim multiple roles for themselves. With the end of the era of business cards, the only limit here is the length of an email signature, which provides so much space for creative role combinations. Help them not to take on too many contradicting roles at once to keep the company’s expenses for treating multiple personality disorder in check. Make sure the **TTECCCT** runs a spell check over the results so that they don’t embarrass themselves too much.
+> 
+> If **TTECCCT** staff members want to claim the title of a group as their role, it is acceptable. Create a nice email distribution list for them. There is nothing wrong with the Enterprise Architecture Review Board (EARB) being a single resource governing the software architecture. The same goes for **TTECCCT** members who claim multiple roles for themselves. With the end of the era of business cards, the only limit here is the length of an email signature, which provides so much space for creative role combinations. Help them not to take on too many contradicting roles at once to keep the company’s expenses for treating multiple personality disorder in check. Make sure the **TTECCCT** runs a spell check over the results so that they don’t embarrass themselves too much.
 
 **Ceremonies and Useful Meetings**
 
-The SAD MF out-of-the-box comes with thirteen ceremonies, but management believed that they were taking up too much time and wanted the resources to focus on coding instead. Each **TTECCCT** member had already chosen some of these thirteen ceremonies to serve as their personal mandatory underling mistreatment (mum) meeting. The consultants negotiated a compromise: keep all ceremonies, but reduce their duration to a quarter of the original time while still demanding the same output as before. It was clear, that the quality of plans might suffer by this, so the **TTECCCT** decided to rename “plan” to “precise but also vague premonition.” It has also been decided not to whip resources in public should not all parts of their precise but also vague premonition come true. However, all other management tactics, including [death marches](https://en.wikipedia.org/wiki/Death_march_(project_management)) and [shturmovshchina](https://en.wikipedia.org/wiki/Shturmovshchina), are still fair game.
+The SAD MF out-of-the-box comes with thirteen ceremonies, but management believed that they were taking up too much time and wanted the resources to focus on coding instead. Each **TTECCCT** member had already chosen some of these thirteen ceremonies to serve as their personal mandatory underling mistreatment (mum) meeting. The consultants negotiated a compromise: keep all ceremonies, but reduce their duration to a quarter of the original time while still demanding the same output as before. It was clear, that the quality of plans might suffer by this, so the **TTECCCT** decided to rename “plan” to “precise but also vague premonitions.” It has also been decided not to whip resources in public should not all parts of their precise but also vague premonitions come true. However, all other management tactics, including [death marches](https://en.wikipedia.org/wiki/Death_march_(project_management)) and [shturmovshchina](https://en.wikipedia.org/wiki/Shturmovshchina), are still fair game.
 
 > Hint: As management, demand to be invited to all of the thirteen ceremonies, being the lord-stakeholder-savior-god- owner by now. Show up spontaneously without accepting, declining, or using any further functionality of your calendar tool. If you decide to participate in a ceremony, talk at least 50% of the timebox on a random topic of your choosing. You are not limited to the ceremonies. If you want to check on some resources, simply set something up and call it a meeting, 1:1, sync, exchange, or leave it at default. Don’t provide an agenda — you don’t prepare, why should anyone else? Expert tip: With just two clicks, you can also make this a recurring meeting that you can drag around for fun.
 
 **Training in Teams** (TiT)
 
-[Regardless of what the SAD MF says, there is no need for training the resources since everything is readily available on the SAD website. Management probably also forgot possible training expenses in their **YSVIBAICS.**](https://scaledagiledevops.com/)
+Regardless of what the SAD MF says, there is no need for training the resources since everything is readily available on the \[SAD website\] (https://scaledagiledevops.com/). Management probably also forgot possible training expenses in their **YSVIBAICS**.
 
 > Hint: If you really need additional information check out the compatible [Certified Really Agile Practitioner](https://www.youtube.com/watch?v=cwbiSCgiZNA) on YouTube. Get administration to unblock YouTube in the company firewall settings first.
 
@@ -91,7 +88,7 @@ Controlling the narrative is hard when every release convoy is exposed to the SA
 
 > Hint: Should a resource ask questions at this point, claim they are not yet in a mature state according to the change curve shown below. The consultants certainly would be willing to work on the resource’s values, principles, behaviors, culture and religious belief systems to help them overcome their negativity and transition to compliance.
 
-![](Aspose.Words.2396e609-f9e5-450c-81b4-b5779164ce63.007.jpeg)
+![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/46e79f7131df8f875b1ddf9ae9eb38d840a6dc638b0deb6e.jpg)
 
 *   Adapted from Dr. Elisabeth Kubler-Ross, 1969![](Aspose.Words.2396e609-f9e5-450c-81b4-b5779164ce63.008.png)
 
@@ -111,13 +108,13 @@ At some random point, management declared that the Movers First had **succeeded*
 
 This tool is part of any [mushroom management](https://en.wikipedia.org/wiki/Mushroom_management) initiative and by common law needs to be deployed together with DevOps, Agile, Lean, Digitization, New Work, Industrial Revolution, or any other known or future change project.
 
-![](Aspose.Words.2396e609-f9e5-450c-81b4-b5779164ce63.009.jpeg)
+![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/257cfab0f75875ee5bf85919f07d0f4fd2fa745f91951477.png)
 
 *   GPT-10 understood Jira and started an all-out war against Atlassian![](Aspose.Words.2396e609-f9e5-450c-81b4-b5779164ce63.010.png)
 
 Management has made this a multi-level system portfolio enterprise configuration, so no single team has been able to achieve anything on their own, needing a steep hierarchy with approvals and informing management at the top for even going to the restroom. Now management is enabled to tell anyone in the newly defined organization that they are doing “it” ![](Aspose.Words.2396e609-f9e5-450c-81b4-b5779164ce63.011.jpeg)[wrong](https://www.youtube.com/watch?v=AjSOQodHYJs) at any point in time.
 
-![](Aspose.Words.2396e609-f9e5-450c-81b4-b5779164ce63.011.jpeg)
+![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/7d6795284fbd8d63bcb84bcb908470d3c71ad2b44b37e5af.png)
 
 *   Exaggeration just for teaching purposes — no one in their right minds would use something like this — source: ![](Aspose.Words.2396e609-f9e5-450c-81b4-b5779164ce63.012.png)\<https://scaledagileframework.com/\>
 
@@ -127,9 +124,9 @@ Management has made this a multi-level system portfolio enterprise configuration
 
 Management claimed that nobody has been delivering any real value, but decided not to measure value. Instead, they decided to measure speed of delivery. The DevOps initiative was declared **successful**, so there was no risk of metrics making management look bad anymore. They got the consultants to write Jira queries and ordered the teams to provide exactly the same numbers by hand, guaranteeing the four-eyes principle.
 
-![](Aspose.Words.2396e609-f9e5-450c-81b4-b5779164ce63.013.jpeg)
+![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/7b7c3bddfe29a867d985739b0d9a1643f3b86ac55a79860f.jpg)
 
-*   Picture courtesy of BBC News Network![](Aspose.Words.2396e609-f9e5-450c-81b4-b5779164ce63.014.png)
+*   Picture courtesy of BBC News Network
 
 > Hint: Claim that the metrics everyone now has to deliver are industry standard (without specifying which industry). Also, assure everyone that you won’t compare teams or individual employees, or track employee performance throughout the day or over time. Make a big pinky-swear to emphasize your sincerity. However, still insist that all metrics be gathered in one central location for your convenience and be accessible to you at any time. With all the data in one place, any future decision can be justified simply by pointing to the metrics, eliminating the need for any tedious analytics.
 
