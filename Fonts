@@ -1,0 +1,49 @@
+# FONTS.md  
+## Glyph Rendering Guidelines for GLYPH LAYER PROTOCOL v0.1  
+∰ Symbols Render Meaning. Fonts Render Symbols.
+
+---
+
+## 🔍 Purpose
+
+The **GLYPH LAYER PROTOCOL** uses extended Unicode glyphs to encode complex emotional, cognitive, and ethical signals. These glyphs must be rendered **accurately and legibly** across platforms.
+
+Fonts determine how these glyphs appear. Some systems render them well by default; others may need adjustments.
+
+---
+
+## ⚠️ Font Licensing Note
+
+While the protocol uses **standard Unicode characters**, some fonts that display them—like **Segoe UI Symbol** (Microsoft)—are **proprietary**. You may **not** embed, redistribute, or assume access to Segoe fonts in your apps or repos unless properly licensed.
+
+---
+
+## ✅ Recommended Open Fonts
+
+We suggest using **open-source fonts** that support extended Unicode symbol ranges:
+
+| Font | License | Highlights | Link |
+|------|---------|------------|------|
+| **Noto Sans Symbols** | Apache 2.0 | Clean, complete Unicode symbol coverage | [Google Fonts](https://fonts.google.com/specimen/Noto+Sans+Symbols) |
+| **Noto Emoji** | Apache 2.0 | Best for visual clarity of emoji-style glyphs | [Google Fonts](https://fonts.google.com/specimen/Noto+Emoji) |
+| **Unifont** | GPL with Font Exception | Full Unicode coverage in bitmap form | [GNU Unifont](https://unifoundry.com/unifont/) |
+| **DejaVu Sans** | Bitstream Vera License | Broad but partial Unicode range | [DejaVu Fonts](https://dejavu-fonts.github.io/) |
+
+---
+
+## 🌐 Web Implementation Example
+
+To ensure correct rendering on GitHub Pages or web docs:
+
+```html
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Symbols&display=swap" rel="stylesheet">
+<style>
+  body {
+    font-family: 'Noto Sans Symbols', sans-serif;
+  }
+</style>
+
+Markdown Readers: sudo apt install fonts-noto-core fonts-noto-color-emoji
+
+brew tap homebrew/cask-fonts
+brew install --cask font-noto-sans-symbols
