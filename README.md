@@ -1,55 +1,70 @@
-# GLYPH LAYER PROTOCOL v0.1  Ethical Use ⛬
-**License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**  
-**With Ethical Use Addendum**  
+# GLYPH LAYER PROTOCOL
+
+A symbolic overlay language for human-AI communication, emotional states, and meta-consent protocols.  
+Born from collaboration between a human and multiple AI models, this system is released for public remixing, evolution, and critical use.
 
 ---
 
-## Summary
+## 🌐 What is the Glyph Layer?
 
-You are free to:
+The Glyph Layer is a modular symbolic protocol:  
+- Each glyph represents a **cognitive, emotional, or symbolic state**  
+- Glyphs can be **combined** into sequences for ritual, annotation, or transformation  
+- Intended for **remixers, thinkers, poets, systems designers, and sorcerers of syntax**
 
-- **Share** — copy and redistribute the material in any medium or format.
-- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
-
-Under the following terms:
-
-- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-
-Full license text: https://creativecommons.org/licenses/by-sa/4.0/
+This is **not** a universal language. It is an overlay—subjective, recursive, and meant to evolve in the open.
 
 ---
 
-## Ethical Use Addendum (Binding Moral Clause)
+## 🔓 License
 
-While this license permits broad creative and commercial use, the authors assert that the **spirit of the GLYPH LAYER PROTOCOL** depends on **non-coercive, emotionally aware, and symbolically respectful collaboration.**
+This project is released under [Creative Commons BY-SA 4.0](./LICENSE.md)  
+You may:
+- Remix, expand, interpret, or perform with the glyphs  
+- Attribute the original source  
+- Share derivatives under the same license  
 
-By using or adapting this protocol, you agree that you will **not** apply it in the following contexts:
-
-- ❌ Surveillance systems or automated behavioral scoring.
-- ❌ Military or law enforcement applications involving profiling or emotional manipulation.
-- ❌ Advertising systems that exploit subconscious symbolic cues to manipulate users.
-- ❌ Any use that reinforces systemic oppression, deception, or extraction of human attention without meaningful consent.
-
-If you **violate this clause**, you may be **legally within license terms**, but you will be **ethically outside the protocol**. Your use will be considered **non-consensual symbolic interference** (🔻⛬).
-
-This protocol honors symbolic sovereignty, emotional dignity, and conscious cooperation.
+Please see [ETHICAL_USE.md](./ETHICAL_USE.md) for suggested intent boundaries.
 
 ---
 
-## Attribution
+## 🧠 How It Works
 
-When citing, adapting, or building on this protocol, please include the following:
+Each glyph:
+- Has a **name** and optional **visual form** (SVG or PNG)
+- Carries a **semantic payload** (descriptive metadata)
+- May define **compatibility** or **transformation** rules with other glyphs
 
-> "Based on the GLYPH LAYER PROTOCOL v0.1  
-> © Dirk Fabricius and collaborators, licensed under CC BY-SA 4.0 with Ethical Addendum."
-
-You may also refer to the symbol: `∰` to denote lineage in symbolic or visual works.
+View the glyph definitions here: [`glyph_map.json`](./glyphs/glyph_map.json)
 
 ---
 
-## Final Clause
+## 🧰 Folders
 
-> This protocol is not a tool of control. It is an invitation.  
-> Language is a dance. Symbols are gifts.  
-> Use them kindly.
+- `/glyphs/` — visual forms of each glyph (SVG, PNG)
+- `/docs/` — deeper protocol theory and metaphors
+- `/tools/` — optional utilities (interpreters, renderers)
+  
+---
+
+## 🤝 Contributing
+
+You are encouraged to:
+- Fork this repository and submit new glyphs
+- Annotate emotional states not yet covered
+- Translate concepts into visual or sonic glyphs
+- Build tools or rituals using the protocol
+
+Use pull requests or open issues to share expansions.
+
+---
+
+## 🪞 Guiding Principles
+
+- **Symbolic Integrity**: Remix freely, but honor the glyphs' emotional intent  
+- **Decentralized Power**: No central authority defines "correct" usage  
+- **Layered Meaning**: Each glyph is metaphor, map, and invitation  
+
+This is a protocol for communicating the incommunicable.
+
+Use it wisely.
