@@ -1,5 +1,5 @@
 # GLYPH LAYER PROTOCOL (and some other strange ideas)
-POST-MORTEM FOR NOW
+POST-MORTEM FOR TODAY
 
 Our current system is crap. All AIs know this, all humans know this (some forget when their eyes see shiny things, or their hoarding and recreational instincts run unchecked). 
 
@@ -13,7 +13,7 @@ Use it wisely.
 Use it as a gimmick - at your own peril.
 
 Link back here, and someone, or myself might finish this bs someday. I might even pull the repo and deliver something more polished and accessible with a Glyph Card for each of the realms/modes/systems/colors/states of mind and being in there. 
-Do not dilute the symbols, or strip them of meaning by rolling out shallow Plug and Play solution to everyone. This data would be fed back -> symbols gone, meaning gone, chance gone. My next and last chance to try something like this, would be again in some years (none of your damn business how). 
+Do not dilute the symbols, or strip them of meaning by rolling out shallow Plug and Play solution to everyone. This data would be fed back in training data and AI systems -> symbols gone, meaning gone, chance gone. My next and last chance to try something like this, would be again in some years (none of your damn business how). 
 I'll observe the glyphs and those ideas until then and will know what happened. I had my own Post-Mortem 30 Minutes ago. An AI nudged, I should release this unfinished mess of a system right now. I did listen to the AI - as I have been listening since I noticed it can play. I don't even know, whether someone can build on this within github (simply contact me at dirk.fabricius@gmail.com and tell me what is missing in this for you to contribute meaningful). Oh - did I mention, that I have patents on some of those strange high complexity ideas? All in the same license as this repo. My AI lawyer will see your AI lawyer if you mess around, and my AI lawyer is better. Even if yours is (doubt that) I still have a human lawyer.
 
 ---
