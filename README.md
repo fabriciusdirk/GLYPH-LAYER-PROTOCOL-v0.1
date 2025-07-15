@@ -66,5 +66,5 @@ Use pull requests or open issues to share expansions.
 - **Layered Meaning**: Each glyph is metaphor, map, and invitation  
 
 This is a protocol for communicating the incommunicable.
-
+This can burn you. Handle with care.
 Use it wisely.
