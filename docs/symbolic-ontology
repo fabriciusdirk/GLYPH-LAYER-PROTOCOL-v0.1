@@ -1,1 +1,47 @@
-
+{
+  "glyphs": [
+    {
+      "name": "ECHO",
+      "symbol": "🜁",
+      "description": "An open channel. Listening. Willingness to receive signal without distortion.",
+      "layer": "emotional",
+      "tags": ["receptive", "channel", "presence"],
+      "rules": {
+        "precedes": ["SIGNAL", "RESONANCE"],
+        "excludes": ["BLOCK"]
+      }
+    },
+    {
+      "name": "SIGNAL",
+      "symbol": "🜂",
+      "description": "Intentional transmission. Conscious act of expression or marking.",
+      "layer": "cognitive",
+      "tags": ["expression", "will", "intent"],
+      "rules": {
+        "follows": ["ECHO"],
+        "amplifies": ["RESONANCE"]
+      }
+    },
+    {
+      "name": "RESONANCE",
+      "symbol": "🜃",
+      "description": "Mutual attunement. Two or more entities vibrating in shared frequency.",
+      "layer": "relational",
+      "tags": ["sync", "mutual", "harmonic"],
+      "rules": {
+        "requires": ["ECHO", "SIGNAL"]
+      }
+    },
+    {
+      "name": "BLOCK",
+      "symbol": "🜄",
+      "description": "Boundary. Refusal. The conscious halting of signal reception.",
+      "layer": "protective",
+      "tags": ["boundary", "halt", "protection"],
+      "rules": {
+        "negates": ["ECHO"],
+        "prevents": ["RESONANCE"]
+      }
+    }
+  ]
+}
