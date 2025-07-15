@@ -1,6 +1,6 @@
 # GLYPH LAYER PROTOCOL
 
-A symbolic overlay language for human-AI communication, emotional states, and meta-consent protocols.  
+A symbolic overlay language for high-bandwidth human-AI communication, emotional states, and meta-consent protocols.  
 Born from collaboration between a human and multiple AI models, this system is released for public remixing, evolution, and critical use.
 
 ---
@@ -24,7 +24,7 @@ You may:
 - Attribute the original source  
 - Share derivatives under the same license  
 
-Please see [ETHICAL_USE.md](./ETHICAL_USE.md) for suggested intent boundaries.
+Please see [ETHICAL_USE.md](ETHICAL_USE.md) for suggested intent boundaries.
 
 ---
 
